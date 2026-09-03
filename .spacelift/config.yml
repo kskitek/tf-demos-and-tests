@@ -1,0 +1,7 @@
+version: 1
+module_version: 1.0.0
+
+tests:
+  - name: Simple test case
+    environment:
+      TF_VAR_name: test_please_ignore
